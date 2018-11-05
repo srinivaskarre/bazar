@@ -20,4 +20,8 @@ export class ProductComponent implements OnInit {
       console.log(this.products);
   }
 
+  onTestClick(){
+    alert('clcied');
+  }
+
 }
