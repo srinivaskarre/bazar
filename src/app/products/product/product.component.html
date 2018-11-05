@@ -1,0 +1,14 @@
+<h1>Products</h1>
+<ul>
+<li *ngFor='let product of products'>
+  <ul>
+    <li>{{ product.itemname }}</li>
+  <li>{{ product.itemdescription }}</li>
+  <li *ngFor='let feature of product["features"]'>{{ feature }}</li>
+  <li><strong>Price: </strong>{{product.price.originalprice}}
+  <li><strong>Promotional Price: </strong>{{product.price.promotionalprice}}
+  <li><strong>Offers: </strong></li>
+  <li *ngFor='let offer of product["offers"] ["offer"]'>{{ offer }}</li>
+  </ul>
+</li>
+  </ul>

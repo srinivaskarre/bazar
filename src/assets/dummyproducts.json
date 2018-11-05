@@ -1,0 +1,74 @@
+[
+    {
+        "itemid": "123456",
+        "itemname": "Nokia 6.1",
+        "itemdescription": "6GB RAM 16 MP CAM",
+        "features": [
+            "3 GB RAM | 32 GB ROM | Expandable Upto 400 GB",
+            "14.73 cm (5.8 inch) HD+ Display",
+            "13MP + 5MP | 8MP Front Camera",
+            "3060 mAh Battery",
+            "MediaTek Helio P60 Processor",
+            "Brand Warranty of 1 Year Available for Mobile and 6 Months for Accessories"
+        ],
+        "price": {
+            "originalprice": 30000,
+            "promotionalprice": 28000
+        },
+        "offers": {
+            "offer": [
+                "No Cost EMI",
+                "Special Price"
+            ]
+        },
+        "reviews": {}
+    },
+    {
+        "itemid": "123457",
+        "itemname": "Nokia 6.2",
+        "itemdescription": "6GB RAM 16 MP CAM",
+        "features": [
+            "3 GB RAM | 32 GB ROM | Expandable Upto 400 GB",
+            "14.73 cm (5.8 inch) HD+ Display",
+            "13MP + 5MP | 8MP Front Camera",
+            "3060 mAh Battery",
+            "MediaTek Helio P60 Processor",
+            "Brand Warranty of 1 Year Available for Mobile and 6 Months for Accessories"
+        ],
+        "price": {
+            "originalprice": 30000,
+            "promotionalprice": 28000
+        },
+        "offers": {
+            "offer": [
+                "No Cost EMI",
+                "Special Price"
+            ]
+        },
+        "reviews": {}
+    },
+    {
+        "itemid": "123458",
+        "itemname": "Nokia 6.3",
+        "itemdescription": "6GB RAM 16 MP CAM",
+        "features": [
+            "3 GB RAM | 32 GB ROM | Expandable Upto 400 GB",
+            "14.73 cm (5.8 inch) HD+ Display",
+            "13MP + 5MP | 8MP Front Camera",
+            "3060 mAh Battery",
+            "MediaTek Helio P60 Processor",
+            "Brand Warranty of 1 Year Available for Mobile and 6 Months for Accessories"
+        ],
+        "price": {
+            "originalprice": 30000,
+            "promotionalprice": 28000
+        },
+        "offers": {
+            "offer": [
+                "No Cost EMI",
+                "Special Price"
+            ]
+        },
+        "reviews": {}
+    }
+]
